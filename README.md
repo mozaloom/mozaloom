@@ -1,4 +1,5 @@
-[![Header](https://i.imgur.com/xEVxHhK.jpg)](https://www.linkedin.com/in/mozaloom/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/mozaloom/)
+
 
 # Hi there! I'm Mohammed Zaloom 👋
 ### Crafting the Future with AI, Robotics, and Innovation
