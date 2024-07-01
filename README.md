@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate AI & Robotics enthusiast, current
 
 ## 📫 How to Reach Me:
 - **LinkedIn**: [Mohammed Zaloom](https://www.linkedin.com/in/mozaloom/)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [mozaloom@ieee.org](mailto:mozaloom@ieee.org)
 
 Feel free to connect with me, explore my projects, or collaborate on innovative ideas. Let's create something amazing together!
 
