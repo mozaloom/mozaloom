@@ -1,7 +1,7 @@
 # Hi there! I'm Mohammed Zaloom 👋
 ### Crafting the Future with AI, Robotics, and Innovation
 
-<img align="right" alt="Coding" width="300" src="[https://media.giphy.com/media/3oKIPnwkbi6BDDG3Cg/giphy.gif](https://tenor.com/bA4ei.gif)">
+<img align="right" alt="Coding" width="300" src="https://tenor.com/bA4ei.gif">
 
 
 Welcome to my GitHub profile! I'm a passionate 4th-year AI and Robotics student at the Faculty of Artificial Intelligence, Al-Balqa Applied University in Jordan. My mission is to leverage modern technology to create a positive impact in the world. Let's innovate together!
