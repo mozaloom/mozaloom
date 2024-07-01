@@ -19,10 +19,10 @@ Welcome to my GitHub profile! I'm a passionate 4th-year AI and Robotics student 
 ## 🔭 Current Projects:
 - **AI-Powered Insurance Predictions**: Developing models to predict customer insurance policy adoptions.
 - **Twitter Sentiment Analysis**: Classifying tweets to understand public opinion using NLP.
-- **Vending Machine Arduino Based
-- **Sumo Robot
-- **Micro Mouse Robot
-- **Images Classification
+- **Vending Machine Arduino Based**
+- **Sumo Robot**
+- **Micro Mouse Robot**
+- **Images Classification**
 
 ## 🛠️ Technologies & Tools:
 <p align="left">
