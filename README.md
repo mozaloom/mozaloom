@@ -19,7 +19,10 @@ Welcome to my GitHub profile! I'm a passionate 4th-year AI and Robotics student 
 ## 🔭 Current Projects:
 - **AI-Powered Insurance Predictions**: Developing models to predict customer insurance policy adoptions.
 - **Twitter Sentiment Analysis**: Classifying tweets to understand public opinion using NLP.
-- **Smart Home Automation**: Integrating IoT devices with AI for a seamless home experience.
+- **Vending Machine Arduino Based
+- **Sumo Robot
+- **Micro Mouse Robot
+- **Images Classification
 
 ## 🛠️ Technologies & Tools:
 <p align="left">
@@ -37,14 +40,12 @@ Welcome to my GitHub profile! I'm a passionate 4th-year AI and Robotics student 
 </p>
 
 ## 🏆 Accomplishments:
-- 🥇 **Winner**: 1st Maze Solver Robot Contest in Jordan
-- 🎓 **Outstanding GPA**: 3.79/4.00
-- 🌍 **Community Leader**: Facilitated numerous workshops with Google Developer Student Club and IEEE
+- 🎓 **Top Performer**: Maintained a GPA of 3.82, consistently excelling academically.
 
 ## 📫 How to Reach Me:
 - **LinkedIn**: [Mohammed Zaloom](https://www.linkedin.com/in/mozaloom/)
 - **Email**: [mozaloom@ieee.org](mailto:mozaloom@ieee.org)
-- **Website**: [My Personal Blog](https://mohammedzaloom.tech) *(Coming Soon!)*
+- **Website**: [My Portfolio](https://mohammedzaloom-portfolio.onrender.com)
 
 ## 🎨 GitHub Stats:
 <p>
