@@ -41,11 +41,12 @@ Welcome to my GitHub profile! I'm a passionate 4th-year AI and Robotics student 
 - 🎓 **Outstanding GPA**: 3.79/4.00
 - 🌍 **Community Leader**: Facilitated numerous workshops with Google Developer Student Club and IEEE
 
-## 💡 Let's Connect:
+## 📫 How to Reach Me:
 - **LinkedIn**: [Mohammed Zaloom](https://www.linkedin.com/in/mozaloom/)
-- **Email**: [mohammed.zaloom@example.com](mailto:mohammed.zaloom@example.com)
+- **Email**: [mozaloom@ieee.org](mailto:mozaloom@ieee.org)
+- **Website**: [My Personal Blog](https://mohammedzaloom.tech) *(Coming Soon!)*
 
-## 📈 GitHub Stats:
+## 🎨 GitHub Stats:
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mozaloom&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -62,5 +63,8 @@ Welcome to my GitHub profile! I'm a passionate 4th-year AI and Robotics student 
 My vision is to integrate AI and robotics to solve complex problems, improve efficiency, and enhance the quality of life globally. By collaborating with like-minded individuals and organizations, I aim to innovate and inspire the next generation of technologists.
 
 ---
+
+## 🎨 Fun Fact:
+Did you know that a robot I designed once autonomously navigated a complex maze in less than 5 minutes? It's these kinds of challenges that fuel my passion for robotics and AI.
 
 Thank you for visiting my profile. Let's build the future together!
