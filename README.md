@@ -2,7 +2,8 @@
 ### Crafting the Future with AI, Robotics, and Innovation
 
 
-<img align="right" alt="Robotics" width="300" src="https://media.giphy.com/media/Pkgp9gF4xhRxC/giphy.gif">
+<img align="right" alt="Innovation and Technology" width="300" src="https://media.giphy.com/media/xThtasDY8LZUxOByHK/giphy.gif">
+
 
 
 Welcome to my GitHub profile! I'm a passionate 4th-year AI and Robotics student at the Faculty of Artificial Intelligence, Al-Balqa Applied University in Jordan. My mission is to leverage modern technology to create a positive impact in the world. Let's innovate together!
