@@ -1,9 +1,8 @@
 # Hi there! I'm Mohammed Zaloom 👋
 ### Crafting the Future with AI, Robotics, and Innovation
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/3oKIPnwkbi6BDDG3Cg/giphy.gif">
+<img align="right" alt="Coding" width="300" src="[https://media.giphy.com/media/3oKIPnwkbi6BDDG3Cg/giphy.gif](https://tenor.com/bA4ei.gif)">
 
-<div class="tenor-gif-embed" data-postid="21188384" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/emo-gif-21188384">Emo Sticker</a>from <a href="https://tenor.com/search/emo-stickers">Emo Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 Welcome to my GitHub profile! I'm a passionate 4th-year AI and Robotics student at the Faculty of Artificial Intelligence, Al-Balqa Applied University in Jordan. My mission is to leverage modern technology to create a positive impact in the world. Let's innovate together!
 
