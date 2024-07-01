@@ -1,33 +1,27 @@
-[![MasterHead](https://erpinnews.com/wp-content/uploads/2017/12/amazonai-hiring-banner-1440x425-1-1.jpg)](https://rishavchanda.io)
+[![Header](https://i.imgur.com/xEVxHhK.jpg)](https://www.linkedin.com/in/mozaloom/)
 
-<h1 align="center">Hi 👋, I'm Mohammed Zaloom</h1>
-<h3 align="center">AI & Robotics Enthusiast | Deep Learning and Computer Vision Explorer</h3>
-<img align="right" alt="Coding" width="300" src="https://64.media.tumblr.com/f0a77ec73fd9feefdc64657a8b6f80ef/tumblr_nbvogcvEux1r51vveo1_400.gifv">
+# Hi there! I'm Mohammed Zaloom 👋
+### Crafting the Future with AI, Robotics, and Innovation
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mozaloom&label=Profile%20views&color=0e75b6&style=flat" alt="mozaloom" /> </p>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/3oKIPnwkbi6BDDG3Cg/giphy.gif">
 
-## 👀 What I'm Interested In:
-- **Artificial Intelligence**: Crafting smart solutions that can learn and adapt.
-- **Robotics**: Building autonomous systems that interact seamlessly with the world.
-- **Machine Learning**: Transforming data into actionable insights.
-- **Natural Language Processing**: Enabling machines to understand and generate human language.
-- **Computer Vision**: Teaching machines to see and interpret the visual world.
+Welcome to my GitHub profile! I'm a passionate 4th-year AI and Robotics student at the Faculty of Artificial Intelligence, Al-Balqa Applied University in Jordan. My mission is to leverage modern technology to create a positive impact in the world. Let's innovate together!
 
-## 🌱 What I'm Currently Learning:
-- **Deep Learning**: Mastering neural networks and advanced architectures.
-- **Computer Vision**: Exploring image processing, object detection, and more.
+---
 
-## 🚀 Projects I'm Working On:
-- **Customer Insurance Policies Prediction**: Developing a machine learning model to forecast insurance policy adoption based on customer data.
-- **Sentiment Analysis on Twitter Data**: Utilizing NLP techniques to classify tweets into positive, negative, or neutral sentiments.
-- **3D Design and Printing**: Exploring the world of digital manufacturing and prototyping.
+## 🌟 About Me:
+- 🧠 **Innovator**: Driven by curiosity and a desire to push the boundaries of what's possible.
+- 🤖 **Roboticist**: Building and programming robots to solve real-world problems.
+- 📊 **Data Enthusiast**: Transforming raw data into meaningful insights with machine learning.
+- 📚 **Lifelong Learner**: Continuously exploring new technologies and methodologies.
+- 🎤 **Communicator**: Engaging in tech communities and sharing knowledge through workshops and events.
 
-## 🎓 A Bit About My Background:
-- **Education**: 4th year AI and Robotics Student at the Faculty of Artificial Intelligence, Al-Balqa Applied University, Jordan.
-- **Experience**: Hands-on experience in robotics, 3D modeling, programming (Python), and various AI technologies.
-- **Community**: Active participant in academic and extracurricular projects, including collaborations with Google Developer Student Club and IEEE societies.
+## 🔭 Current Projects:
+- **AI-Powered Insurance Predictions**: Developing models to predict customer insurance policy adoptions.
+- **Twitter Sentiment Analysis**: Classifying tweets to understand public opinion using NLP.
+- **Smart Home Automation**: Integrating IoT devices with AI for a seamless home experience.
 
-## 🛠️ Languages and Tools:
+## 🛠️ Technologies & Tools:
 <p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
@@ -42,19 +36,31 @@
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 
-## 📫 How to Reach Me:
+## 🏆 Accomplishments:
+- 🥇 **Winner**: 1st Maze Solver Robot Contest in Jordan
+- 🎓 **Outstanding GPA**: 3.79/4.00
+- 🌍 **Community Leader**: Facilitated numerous workshops with Google Developer Student Club and IEEE
+
+## 💡 Let's Connect:
 - **LinkedIn**: [Mohammed Zaloom](https://www.linkedin.com/in/mozaloom/)
-- **Email**: [mozaloom@ieee.org](mailto:mozaloom@ieee.org)
+- **Email**: [mohammed.zaloom@example.com](mailto:mohammed.zaloom@example.com)
 
-Feel free to connect with me, explore my projects, or collaborate on innovative ideas. Let's create something amazing together!
+## 📈 GitHub Stats:
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mozaloom&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mozaloom&show_icons=true&locale=en&layout=compact" alt="mozaloom" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozaloom&theme=radical" alt="GitHub Streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mozaloom&show_icons=true&locale=en" alt="mozaloom" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozaloom&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozaloom&" alt="mozaloom" /></p>
+## 🚀 Vision:
+My vision is to integrate AI and robotics to solve complex problems, improve efficiency, and enhance the quality of life globally. By collaborating with like-minded individuals and organizations, I aim to innovate and inspire the next generation of technologists.
 
-<!---
-mozaloom/mozaloom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+Thank you for visiting my profile. Let's build the future together!
