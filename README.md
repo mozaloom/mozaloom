@@ -1,7 +1,3 @@
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/120px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/mozaloom/)
-
-
-
 # Hi there! I'm Mohammed Zaloom 👋
 ### Crafting the Future with AI, Robotics, and Innovation
 
