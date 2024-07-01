@@ -2,8 +2,7 @@
 ### Crafting the Future with AI, Robotics, and Innovation
 
 
-
-<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHd1YWYyd2EybXZtMjMwaWw4ZnczMDVzMXNvMnI1bXh4aDF1aG1ydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGu9zmB3gYjxzdC/giphy.webp">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/n53f5g-plM0AAAAi/emo.gif">
 
 
 Welcome to my GitHub profile! I'm a passionate 4th-year AI and Robotics student at the Faculty of Artificial Intelligence, Al-Balqa Applied University in Jordan. My mission is to leverage modern technology to create a positive impact in the world. Let's innovate together!
