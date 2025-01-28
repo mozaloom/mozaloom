@@ -1,81 +1,71 @@
+# Hi there! I'm Mohammed Zaloom 👋
+### Crafting the Future with AI, Robotics, and Innovation
 
-# 👋 Welcome to Mohammed Zaloom's Corner of Innovation!
 
-### **Pioneering the Future with AI, Robotics & Beyond 🚀**
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/n53f5g-plM0AAAAi/emo.gif">
 
-![Coding](https://media.tenor.com/n53f5g-plM0AAAAi/emo.gif)
 
-Hey there! I'm Mohammed Zaloom, an AI and Robotics engineer passionate about creating intelligent systems and solving real-world challenges. With a knack for blending cutting-edge technology and creativity, I’m here to build impactful solutions and inspire innovation.
-
----
-
-## 🌟 **Who Am I?**
-- 🎓 4th-year **AI & Robotics student** at Al-Balqa Applied University (1st Class Honors, GPA: 3.82/4.00).
-- 🤖 Robotics wizard crafting autonomous robots for competitions and problem-solving.
-- 🧠 AI enthusiast with expertise in **deep learning**, **NLP**, and **computer vision**.
-- 💡 Innovator driving projects with a focus on data-driven insights and creative engineering.
-- 🌍 Community builder, tech advocate, and workshop leader in the AI space.
+Welcome to my GitHub profile! I'm a passionate 4th-year AI and Robotics student at the Faculty of Artificial Intelligence, Al-Balqa Applied University in Jordan. My mission is to leverage modern technology to create a positive impact in the world. Let's innovate together!
 
 ---
 
-## 🔭 **Highlighted Projects**
-Here are some of my most exciting endeavors:
+## 🌟 About Me:
+- 🧠 **Innovator**: Driven by curiosity and a desire to push the boundaries of what's possible.
+- 🤖 **Roboticist**: Building and programming robots to solve real-world problems.
+- 📊 **Data Enthusiast**: Transforming raw data into meaningful insights with machine learning.
+- 📚 **Lifelong Learner**: Continuously exploring new technologies and methodologies.
+- 🎤 **Communicator**: Engaging in tech communities and sharing knowledge through workshops and events.
 
-- **MedGAN**: Synthesized high-quality tumor images with GANs for medical imaging diagnostics. Achieved 92% classification accuracy using Vision Transformers!  
-  _[Project Repo](https://github.com/mozaloom/medgan)_
+## 🔭 Current Projects:
+- **AI-Powered Insurance Predictions**: Developing models to predict customer insurance policy adoptions.
+- **Twitter Sentiment Analysis**: Classifying tweets to understand public opinion using NLP.
+- **Vending Machine Arduino Based**
+- **Sumo Robot**
+- **Micro Mouse Robot**
+- **Images Classification**
 
-- **Micro Mouse Robot**: Designed an autonomous maze-solving robot for the first national contest in Jordan.  
-  _[Project Repo](https://github.com/mozaloom/micro-mouse-robot)_
+## 🛠️ Technologies & Tools:
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+</p>
 
-- **Chest X-Ray Classification**: Built a Vision Transformer-based system achieving 83% accuracy on multi-class X-ray diagnosis.  
-  _[Project Repo](https://github.com/mozaloom/chest-xray-detection)_
+## 🏆 Accomplishments:
+- 🎓 **Top Performer**: Maintained a GPA of 3.82, consistently excelling academically.
 
-- **ASR Fine-Tuning**: Fine-tuned Whisper (Arabic) and Wav2Vec2 (English) for speech recognition with custom preprocessing.  
-  _[Project Repo](https://github.com/mozaloom/ASR-FineTuning-Whisper-Arabic/tree/main)_
+## 📫 How to Reach Me:
+- **LinkedIn**: [Mohammed Zaloom](https://www.linkedin.com/in/mozaloom/)
+- **Email**: [mozaloom@ieee.org](mailto:mozaloom@ieee.org)
+- **Website**: [My Portfolio](https://mohammedzaloom-portfolio.onrender.com)
 
-- **Twitter Sentiment Analysis**: Processed 100K+ tweets with RoBERTa, improving sentiment prediction efficiency.  
-  _[Project Repo](https://github.com/mozaloom/twitter-sentiment-analysis)_
+## 🎨 GitHub Stats:
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mozaloom&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-- **Vending Machine with Arduino**: Engineered a functional vending machine with hardware design and circuit integration.  
-  _[Project Repo](https://github.com/mozaloom/vending-machine-arduino-based)_
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mozaloom&theme=radical" alt="GitHub Streak" />
+</p>
 
----
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozaloom&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-## 🛠️ **Technologies I Speak**
-**Languages & Frameworks:**  
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ![Pytorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) ![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
-
-**Specializations:**  
-- **Machine Learning**: scikit-learn, data preprocessing, feature engineering.  
-- **Robotics**: ROS, Arduino, Autodesk Fusion 360.  
-- **Deep Learning**: Vision Transformers, GANs, RNNs, and large language models.  
-- **Deployment**: Flask, Streamlit, and scalable solutions with NVIDIA GPUs.
-
----
-
-## 🎖️ **Achievements & Certifications**
-- **Deep Learning Specialization** – DeepLearning.AI  
-- **Generative AI with Large Language Models** – Coursera  
-- **CAD & Digital Manufacturing Specialization** – Autodesk  
-- **TensorFlow Developer Certificate** – DeepLearning.AI  
-- **Natural Language Processing Specialization** – Coursera  
-...and more!
-
----
-
-## 📬 **Let’s Connect!**
-- 💼 [LinkedIn](https://www.linkedin.com/in/mozaloom/)  
-- 🌐 [Portfolio](https://mohammedzaloom-portfolio.streamlit.app)  
-- ✉️ [Email](mailto:mohammedzaloomai@gmail.com)  
-- 💻 [GitHub](https://github.com/mozaloom)
-
----
-
-## 🎯 **Vision**
-My goal is to advance human capability by merging AI and robotics into everyday life, from healthcare to smart systems. Let’s collaborate and shape the future of technology together.
+## 🚀 Vision:
+My vision is to integrate AI and robotics to solve complex problems, improve efficiency, and enhance the quality of life globally. By collaborating with like-minded individuals and organizations, I aim to innovate and inspire the next generation of technologists.
 
 ---
 
-💡 _Fun Fact:_ I once built a sumo robot that pushed competitors out of the ring! Innovation, competition, and creativity fuel my journey in tech.  
+## 🎨 Fun Fact:
+Did you know that a robot I designed once autonomously navigated a complex maze in less than 5 minutes? It's these kinds of challenges that fuel my passion for robotics and AI.
 
-Thanks for visiting! ⭐ Let’s build the future.
+Thank you for visiting my profile. Let's build the future together!
