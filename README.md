@@ -1,7 +1,7 @@
 # Hi there! I'm Mohammed Zaloom 🤖  
 ### Building Intelligent Futures at the Intersection of AI & Robotics  
 
-<img align="right" alt="Innovation" width="320" src="https://media.tenor.com/FpgR8xFDNw8AAAAi/robot-joypixels.gif">  
+<img align="right" alt="Innovation" width="320" src="https://media.tenor.com/n53f5g-plM0AAAAi/emo.gif">  
 
 Welcome to my innovation playground! I'm a 4th-year AI & Robotics student at Al-Balqa Applied University, Jordan, crafting intelligent systems that bridge digital and physical worlds. When I'm not teaching robots to navigate mazes or training models to diagnose tumors, you'll find me empowering tech communities or competing in hackathons. Let's redefine possibilities together!  
 
@@ -21,7 +21,7 @@ Welcome to my innovation playground! I'm a 4th-year AI & Robotics student at Al-
 ### **MedGAN: Synthetic Tumor Generation**  
 _Generative AI meets medical imaging_  
 🔥 StyleGAN2 + Vision Transformers | 92% tumor classification accuracy  
-📈 Reduced data scarcity with synthetic images (FID: 18.3) | [GitHub Repo](#)  
+📈 Reduced data scarcity with synthetic images | [GitHub Repo](#)  
 
 ### **Autonomous Maze Crusher**  
 _MicroMouse Robot | National Competition_  
