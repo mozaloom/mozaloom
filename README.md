@@ -1,159 +1,86 @@
-# < Hello World, I'm Mohammed Zaloom /> 
-#### `sudo apt-get install ai-robotics-enthusiast`
+# 🧠 Mohammed Zaloom | AI Architect & Robotics Innovator
+
+> "Teaching machines to think, robots to move, and neural networks to dream."
 
 <div align="center">
-
-```ascii
-+------------------------+
-|     AI ARCHITECT      |
-|     & ROBOTICIST      |
-+------------------------+
-         |  |
-    [Deep Learning]
-         |  |
-  [Computer Vision]--[NLP]
-         |  |
-     [Robotics]
-```
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammedzaloom-portfolio.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mozaloom/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mozaloom@ieee.org)
 
 </div>
 
-## `$ whoami`
+## 🤖 Neural Navigator
+
+Building bridges between artificial intelligence and reality at Al-Balqa Applied University (GPA: 3.82/4.0). I specialize in crafting intelligent systems that push the boundaries of what's possible in healthcare, robotics, and beyond.
+
+### 🧬 AI Arsenal
+
 ```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Mohammed Zaloom"
-        self.role = "AI & Robotics Engineer"
-        self.location = "Jordan"
-        self.education = {
-            "university": "Al-Balqa Applied University",
-            "major": "AI & Robotics",
-            "gpa": 3.82
-        }
-        self.languages = ["Python", "C++", "ROS", "Human"]
+class AISkills:
+    deep_learning = ["PyTorch", "TensorFlow", "Vision Transformers", "GANs"]
+    computer_vision = ["OpenCV", "Object Detection", "Medical Imaging"]
+    nlp = ["Whisper", "Wav2Vec2", "Transformers"]
+    robotics = ["ROS", "Arduino", "Autonomous Navigation"]
+    deployment = ["Flask", "Docker", "Streamlit"]
 ```
 
-## `$ ls ./projects`
-### 🧬 Medical AI Innovations
-```javascript
-{
-  "MedGAN": {
-    "type": "Medical Imaging",
-    "tech": ["StyleGAN2", "Vision Transformers"],
-    "accuracy": "92%",
-    "impact": "Revolutionizing tumor data synthesis"
-  },
-  "PandemicEye": {
-    "type": "X-Ray Classification",
-    "tech": ["ViT", "Flask"],
-    "accuracy": "83%",
-    "dataset": ["COVID-19", "Pneumonia", "Normal"]
-  }
-}
-```
+## 🔬 Research & Innovation Lab
 
-### 🤖 Robotic Ventures
-```python
-class RoboticProjects:
-    def maze_solver():
-        return "National Champion - Sub-5-minute solve time"
-    
-    def sumo_bot():
-        features = ["Titanium scoop", "Bio-inspired design"]
-        achievements = "National Competition Victor"
-        return features, achievements
-    
-    def vending_machine():
-        components = ["Arduino", "Custom circuits", "IoT integration"]
-        return "Fully autonomous retail solution"
-```
+### 🏥 MedGAN: Bridging the Medical Data Gap
+- Pioneered synthetic tumor generation using StyleGAN2
+- Achieved 92% tumor classification accuracy with Vision Transformers
+- Deployed medical imaging diagnostics via Flask API
 
-## `$ cat ./tech-stack.yml`
-```yaml
-AI_Framework:
-  - name: Deep Learning
-    tools: [PyTorch, TensorFlow, Keras]
-    specialties: [GANs, Transformers, CNNs]
+### 🗣️ Multilingual ASR Research
+- Fine-tuned Whisper for Arabic speech recognition
+- Enhanced Wav2Vec2 for English audio processing
+- Developed robust preprocessing pipelines for noisy environments
 
-  - name: Computer Vision
-    tools: [OpenCV, MediaPipe]
-    applications: [Medical Imaging, Object Detection]
+### 👁️ Computer Vision Breakthroughs
+- Built ViT models achieving 83% accuracy in X-ray classification
+- Outperformed traditional CNNs in medical image analysis
+- Created custom data augmentation pipelines
 
-  - name: NLP
-    models: [Whisper, Wav2Vec2]
-    tasks: [ASR, Text Classification]
+## 🤖 Robotics Adventures
 
-Robotics:
-  - frameworks: [ROS]
-  - hardware: [Arduino, Sensors]
-  - specialties: [Navigation, Control Systems]
+### 🏆 Competition Champions
+- **Autonomous Maze Crusher**: Sub-5-minute maze solving beast
+- **Sumo Robot Warrior**: National competition victor with bio-inspired design
+- **Smart Vending**: Arduino-based autonomous retail solution
 
-Deployment:
-  - backend: [Flask, Docker]
-  - frontend: [Streamlit]
-  - cloud: [GCP, Colab Pro+]
-```
+## 📊 GitHub Analytics
 
-## `$ top`
 <div align="center">
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mozaloom&show_icons=true&theme=synthwave&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mozaloom&layout=compact&theme=synthwave&hide_border=true)
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mozaloom&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mozaloom&layout=compact&theme=vision-friendly-dark&hide_border=true)
 
 </div>
 
-## `$ crontab -l`
-```bash
-# Ongoing Research Schedule
-0 * * * * train_medical_models.py
-0 0 * * * optimize_robot_navigation.py
-0 0 * * 1 publish_research_updates.sh
-```
+## 🎓 AI Research Areas
+- Medical Image Analysis & Synthesis
+- Speech Recognition Systems
+- Autonomous Robotics
+- Computer Vision
+- Natural Language Processing
 
-## `$ netstat`
-<div align="center">
+## 🌟 Certifications Universe
+- Deep Learning Specialization
+- Generative AI with LLMs
+- NLP Specialization
+- TensorFlow Developer
+- IoT Programming
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammedzaloom-portfolio.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4088?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mozaloom/)
-[![Email](https://img.shields.io/badge/Email-FF4088?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mozaloom@ieee.org)
-
-</div>
-
-## `$ cat ./certifications.log`
-```log
-[SUCCESS] Deep Learning Specialization
-[SUCCESS] Generative AI with LLMs
-[SUCCESS] NLP Specialization
-[SUCCESS] TensorFlow Developer
-[SUCCESS] IoT Programming
-[LOADING] Next breakthrough...
-```
-
-## `$ fortune`
-> "In the binary realm of 1s and 0s, I found a way to make machines dream and robots dance."
-
-## `$ history`
-```bash
-Previous achievements include:
-- 🏆 National Robotics Competitions Winner
-- 🧠 Medical AI Systems Pioneer
-- 🎯 3.82/4.0 GPA in AI & Robotics
-- 🌟 IEEE Computer Society Leader
-```
-
-<div align="center">
-
-```ascii
-   /\__/\   
-  (=^ .^=)  < "Let's build something amazing!"
-   (")_(")  
-```
-
-</div>
+## 🎯 Current Mission
+Democratizing healthcare through AI and making intelligent robotics accessible to all. Building systems that don't just predict—they protect and serve humanity.
 
 ---
-<div align="center">
 
-*Currently training neural networks and teaching robots to solve world problems, one epoch at a time.*
+<div align="center">
+  
+*"In the realm of AI, every line of code is a step toward a more intelligent tomorrow."*
 
 </div>
+
+*Fun Fact: My Sumo Robot's secret weapon was inspired by ant mandibles - nature's perfect design! 🐜*
