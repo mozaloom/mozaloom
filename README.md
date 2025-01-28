@@ -1,90 +1,90 @@
-# Welcome! I’m Mohammed Zaloom 👋  
-### **Artificial Intelligence Engineer | Robotics Enthusiast | Innovator**
+# Hi there! I'm Mohammed Zaloom 🤖  
+### Building Intelligent Futures at the Intersection of AI & Robotics  
 
-Welcome to my GitHub profile! I’m a 4th-year AI and Robotics student at Al-Balqa Applied University in Jordan, graduating with First-Class Honors (GPA: 3.82/4.00). My mission is to leverage cutting-edge technologies in artificial intelligence, robotics, and data science to solve real-world problems and drive innovation.
+<img align="right" alt="Innovation" width="320" src="https://media.tenor.com/FpgR8xFDNw8AAAAi/robot-joypixels.gif">  
 
----
-
-## 📌 **About Me**  
-- **Field of Expertise**: Machine Learning, Deep Learning, Natural Language Processing (NLP), and Robotics.  
-- **Key Skills**: Data preprocessing, model optimization, robotics development, 3D modeling, and embedded systems.  
-- **Focus Areas**: Building intelligent systems to enhance efficiency, accuracy, and decision-making across industries.  
-- **Experience**: Hands-on with AI research, competitions, and practical engineering projects in fields like healthcare, sentiment analysis, and automation.
+Welcome to my innovation playground! I'm a 4th-year AI & Robotics student at Al-Balqa Applied University, Jordan, crafting intelligent systems that bridge digital and physical worlds. When I'm not teaching robots to navigate mazes or training models to diagnose tumors, you'll find me empowering tech communities or competing in hackathons. Let's redefine possibilities together!  
 
 ---
 
-## 🔬 **Notable Projects**  
-
-### **MedGAN: GAN-Based Tumor Synthetic Data Generation**  
-- Designed a GAN-powered system to generate synthetic tumor images for medical imaging diagnostics.  
-- Achieved **92% classification accuracy** using Vision Transformers (ViT) with GAN-augmented datasets.  
-- Technologies: PyTorch, StyleGAN2, Flask, NVIDIA GPUs.  
-
-### **Micro Mouse Robot**  
-- Developed an autonomous maze-solving robot for the **1st Maze Solver Robot Contest in Jordan**.  
-- Engineered the hardware, 3D design, and navigation algorithms for optimal performance.  
-
-### **Chest X-Ray Classification**  
-- Built a Vision Transformer-based system to classify chest X-rays into categories like COVID-19, pneumonia, and normal cases.  
-- Achieved **83% accuracy**, surpassing CNN models like ResNet50.  
-
-### **Twitter Sentiment Analysis**  
-- Preprocessed 100,000+ tweets and developed a model using RoBERTa to classify sentiments efficiently.  
-- Focused on enhancing public opinion analysis through NLP techniques.  
-
-### **Autonomous Sumo Robot**  
-- Created an AI-driven robot for the **3rd National Sumo Robotics Competition in Jordan**, achieving high competitive performance.  
-
-For more, check out my repositories:  
-- [MedGAN](https://github.com/mozaloom/medgan)  
-- [Micro Mouse Robot](https://github.com/mozaloom/micro-mouse-robot)  
-- [Chest X-Ray Classification](https://github.com/mozaloom/chest-xray-detection)  
-- [Twitter Sentiment Analysis](https://github.com/mozaloom/twitter-sentiment-analysis)  
+## 🔥 **Superpowers**  
+- 🧩 **Full-Stack AI Developer**: From data pipelines (TF/PyTorch) to embedded robotics (ROS/Arduino)  
+- 🎯 **Competition Champion**: National Sumo Robot Contest | Maze Solver Robot | AI Hackathons  
+- 🏥 **Medical AI Pioneer**: Built ViT models for X-ray classification (83% accuracy) and GANs for synthetic tumor data  
+- 🌍 **Polyglot Machines**: Fine-tuned Whisper (Arabic ASR) and Wav2Vec2 (English ASR) for global impact  
+- 🎨 **Creative Technologist**: 3D modeling (Fusion 360), interactive web apps (Streamlit/Flask), and hardware prototyping  
 
 ---
 
-## 🛠 **Technical Proficiencies**  
+## 🚀 **Featured Projects**  
 
-### **Programming & Frameworks:**  
-- Python | TensorFlow | PyTorch | ROS | Flask | SQL | HTML/CSS  
+### **MedGAN: Synthetic Tumor Generation**  
+_Generative AI meets medical imaging_  
+🔥 StyleGAN2 + Vision Transformers | 92% tumor classification accuracy  
+📈 Reduced data scarcity with synthetic images (FID: 18.3) | [GitHub Repo](#)  
 
-### **Specialized Tools:**  
-- Vision Transformers (ViT)  
-- Robotics Operating System (ROS)  
-- Streamlit for ML model deployment  
-- Autodesk Fusion 360  
+### **Autonomous Maze Crusher**  
+_MicroMouse Robot | National Competition_  
+🤖 ROS-powered navigation | Custom 3D-printed chassis | Sub-5-minute maze solve  
 
-### **Core Competencies:**  
-- Machine Learning & Deep Learning  
-- Computer Vision & Natural Language Processing  
-- Embedded Systems & Robotics Development  
+### **ASR Language Bridge**  
+_Fine-tuned Whisper & Wav2Vec2_  
+🗣️ 15% accuracy boost for Arabic/English speech recognition | Preprocessing pipelines for noisy audio  
 
----
+### **Pandemic Eye**  
+_Chest X-Ray Classification (COVID/Pneumonia)_  
+🩺 Vision Transformer (ViT) outperformed ResNet50 | Deployed via Flask API  
 
-## 🏆 **Certifications**  
-- **Deep Learning Specialization** – DeepLearning.AI  
-- **CAD & Digital Manufacturing Specialization** – Autodesk  
-- **TensorFlow Developer Certificate** – DeepLearning.AI  
-- **Generative AI with Large Language Models** – Coursera  
-- **Natural Language Processing Specialization** – Coursera  
+[**Explore All Projects →**](https://mohammedzaloom-portfolio.onrender.com)  
 
 ---
 
-## 🌟 **Achievements**  
-- Led the Media Team for **IEEE Computer Society BAU Chapter**, managing a team of 15+ members to promote events and initiatives effectively.  
-- Built and deployed multiple robotics and AI systems for academic and national competitions.  
-- Active participant in AI research projects focused on healthcare and automation.  
+## ⚙️ **Toolkit**  
+
+### **AI/ML Stack**  
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="25"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="25">  
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="25"> <img src="https://img.shields.io/badge/HuggingFace-F8D521?logo=huggingface&logoColor=black" height="25">  
+
+### **Robotics & Hardware**  
+<img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" height="25">  
+<img src="https://img.shields.io/badge/Fusion_360-0696D7?logo=autodesk&logoColor=white" height="25">  
+
+### **Deployment**  
+<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="25">  
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" height="25">  
 
 ---
 
-## 📫 **Get in Touch**  
-- **LinkedIn**: [Mohammed Zaloom](https://www.linkedin.com/in/mozaloom/)  
-- **Email**: [mohammedzaloomai@gmail.com](mailto:mohammedzaloomai@gmail.com)  
-- **Portfolio**: [Visit Here](https://mohammedzaloom-portfolio.streamlit.app)  
+## 🏅 **Highlights**  
+- 🥇 **3.82/4.0 GPA** | Faculty of Artificial Intelligence, BAU  
+- 📜 **Certified Innovator**: Deep Learning Specialization | Generative AI with LLMs | NLP Specialization  
+- 🎤 **Tech Evangelist**: Led 15+ member media team at IEEE BAU Chapter | Organized regional hackathons  
+- 🛠️ **Hardware Hustler**: Built Arduino vending machine from circuit design to deployment  
 
 ---
 
-## 🛠 **Vision for the Future**  
-I am driven by a commitment to use artificial intelligence and robotics to solve real-world problems, improve efficiency, and make a positive impact. Through collaboration, I aim to contribute to advancing technology and inspiring future innovators.  
+## 📬 **Let's Connect**  
+<p align="left">  
+  <a href="https://www.linkedin.com/in/mozaloom/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" width="100"></a>  
+  <a href="mailto:mozaloom@ieee.org"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" width="80"></a>  
+  <a href="https://mohammedzaloom-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?logo=google-chrome&logoColor=white" width="100"></a>  
+</p>  
 
-Let’s connect and build the future together.  
+---
+
+## 📊 **Coding Pulse**  
+
+| <img src="https://github-readme-stats.vercel.app/api?username=mozaloom&show_icons=true&theme=vision-friendly-dark&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozaloom&layout=compact&theme=vision-friendly-dark&hide_border=true" /> |  
+| ------------- | ------------- |  
+
+---
+
+## 🌍 **Vision**  
+To pioneer AI systems that democratize healthcare and empower smart cities through ethical robotics. I envision a world where AI doesn't just predict—it *protects*, whether by diagnosing diseases earlier or making autonomous robots accessible to all.  
+
+---
+
+## 🤖 **Fun Fact**  
+My Sumo Robot once defeated 12 competitors in a row using a secret weapon: a 3D-printed titanium scoop inspired by ant mandibles! 🐜✨  
+
+*Ready to geek out about transformers (the neural kind or Optimus Prime)? Let's collide ideas!*  
