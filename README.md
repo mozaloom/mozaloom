@@ -1,4 +1,4 @@
-# 🧠 Mohammed Zaloom | AI Architect & Robotics Innovator
+# Mohammed Zaloom | AI Engineer
 
 > "Teaching machines to think, robots to move, and neural networks to dream."
 
@@ -82,3 +82,4 @@ Democratizing healthcare through AI and making intelligent robotics accessible t
 *"In the realm of AI, every line of code is a step toward a more intelligent tomorrow."*
 
 </div>
+
