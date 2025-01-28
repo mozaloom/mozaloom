@@ -12,10 +12,12 @@
 
 
 # 💫 About Me:
-Building bridges between artificial intelligence and reality at Al-Balqa Applied University (GPA: 3.82/4.0). I specialize in crafting intelligent systems that push the boundaries of what's possible in healthcare, robotics, and beyond.
+👨‍💻 Dedicated AI Technologist specializing in machine learning, deep learning, and natural language processing.
+🌟 Passionate about leveraging AI to drive innovation and positive change across industries.
+📜 Backed by a blend of certifications and hands-on experience, I thrive on continuous learning and self-improvement.
+🎯 Actively participating in competitions and hackathons to make impactful contributions to the field of AI.
 
 ### 🧬 AI Arsenal
-
 ```python
 class AISkills:
     deep_learning = ["PyTorch", "TensorFlow", "Vision Transformers", "GANs"]
@@ -24,6 +26,7 @@ class AISkills:
     robotics = ["ROS", "Arduino", "Autonomous Navigation"]
     deployment = ["Flask", "Docker", "Streamlit"]
 ```
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23007396.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-%23002571.svg?style=for-the-badge&logo=openai&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFDA54.svg?style=for-the-badge&logo=huggingface&logoColor=black) ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
 
 
@@ -39,7 +42,6 @@ class AISkills:
 ##  AI Research Areas
 - Medical Image Analysis & Synthesis
 - Speech Recognition Systems
-- Autonomous Robotics
 - Computer Vision
 - Natural Language Processing
 
@@ -50,8 +52,6 @@ class AISkills:
 - TensorFlow Developer
 - IoT Programming
 
-## 🎯 Current Mission
-Democratizing healthcare through AI and making intelligent robotics accessible to all. Building systems that don't just predict—they protect and serve humanity.
 
 
 
