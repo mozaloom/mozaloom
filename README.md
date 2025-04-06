@@ -12,18 +12,15 @@
 </div>
 
 
-# 💫 About Me:
+# About Me:
 👨‍💻 Dedicated AI Technologist specializing in machine learning, deep learning, and natural language processing.
-🌟 Passionate about leveraging AI to drive innovation and positive change across industries.
-📜 Backed by a blend of certifications and hands-on experience, I thrive on continuous learning and self-improvement.
-🎯 Actively participating in competitions and hackathons to make impactful contributions to the field of AI.
 
-### 🧬 AI Arsenal
+### AI Arsenal
 ```python
 class AISkills:
     deep_learning = ["PyTorch", "TensorFlow", "Vision Transformers", "GANs"]
     computer_vision = ["OpenCV", "Object Detection", "Medical Imaging"]
-    nlp = ["Whisper", "Wav2Vec2", "Transformers"]
+    nlp = ["Whisper", "Wav2Vec2", "Transformers"و "LLMs"]
     robotics = ["ROS", "Arduino", "Autonomous Navigation"]
     deployment = ["Flask", "Docker", "Streamlit"]
 ```
@@ -40,18 +37,13 @@ class AISkills:
 
 </div>
 
-##  AI Research Areas
-- Medical Image Analysis & Synthesis
-- Speech Recognition Systems
-- Computer Vision
-- Natural Language Processing
 
-## Certifications Universe
+## Certifications
 - Deep Learning Specialization
-- Generative AI with LLMs
 - NLP Specialization
-- TensorFlow Developer
-- IoT Programming
+- TensorFlow Developer Specialization
+- IoT Programming Specialization
+- Generative AI with LLMs
 
 
 
