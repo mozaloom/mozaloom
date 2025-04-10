@@ -1,4 +1,4 @@
-# Mohammed Zaloom | AI Engineer
+# Mohammed Zaloom 
 
 > "Teaching machines to think, robots to move, and neural networks to dream."
 
