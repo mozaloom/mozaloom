@@ -15,7 +15,6 @@
 # About Me:
 Dedicated AI Technologist specializing in machine learning, deep learning, and natural language processing.
 
-### AI Arsenal
 ```python
 class AISkills:
     deep_learning = ["PyTorch", "TensorFlow", "Vision Transformers", "GANs"]
