@@ -32,7 +32,8 @@ class AISkills:
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=mozaloom&show_icons=true&theme=vision-friendly-dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mozaloom&layout=compact&theme=vision-friendly-dark&hide_border=true&hide=makefile)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mozaloom&layout=compact&theme=vision-friendly-dark&hide_border=true&hide=jupyter%20notebook,makefile&langs_count=5&card_title=Languages%20I%20Love
+)
 
 </div>
 
