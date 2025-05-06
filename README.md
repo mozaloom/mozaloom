@@ -42,9 +42,10 @@ class AISkills:
 - Deep Learning Specialization
 - NLP Specialization
 - TensorFlow Developer Specialization
+- MLOps Specialization
 - IoT Programming Specialization
 - Generative AI with LLMs
-
+- AI Agents
 
 
 
