@@ -28,6 +28,8 @@ class AISkills:
 
 
 
+
+
 ## 📊 GitHub Analytics
 
 <div align="center">
