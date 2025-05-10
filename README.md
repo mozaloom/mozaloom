@@ -30,9 +30,6 @@ class AISkills:
   
 ![](https://github-readme-stats.vercel.app/api?username=mozaloom&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mozaloom&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=5&card_title=Languages%20I%20Love)
-<img align="right" alt="Coding" width="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHd1YWYyd2EybXZtMjMwaWw4ZnczMDVzMXNvMnI1bXh4aDF1aG1ydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGu9zmB3gYjxzdC/giphy.webp">
-
-
 
 </div>
 
