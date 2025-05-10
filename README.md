@@ -28,8 +28,8 @@ class AISkills:
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=mozaloom&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozaloom&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=5&card_title=Languages%20I%20Love" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=mozaloom&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="495" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozaloom&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=5&card_width=495&card_title=Languages%20I%20Love" alt="Top Languages">
 </div>
 
 
