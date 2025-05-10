@@ -8,8 +8,6 @@
 
 </div>
 
-
-# About Me:
 Dedicated AI Technologist specializing in machine learning, deep learning, and natural language processing.
 
 ```python
@@ -24,7 +22,7 @@ class AISkills:
 <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" height="25"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="25"> <img src="https://img.shields.io/badge/OpenCV-white?logo=opencv&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="25"> <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" height="25"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="25"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" height="25"> <img src="https://img.shields.io/badge/SQL-007396?logo=sqlite&logoColor=white" height="25"> <img src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white" height="25"> <img src="https://img.shields.io/badge/OpenAI-002571?logo=openai&logoColor=white" height="25"> <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="25"> <img src="https://img.shields.io/badge/HuggingFace-FFDA54?logo=huggingface&logoColor=black" height="25"> <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white" height="25">
 
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
