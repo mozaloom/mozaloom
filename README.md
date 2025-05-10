@@ -34,7 +34,8 @@ class AISkills:
 
 </div>
 
-<img align="right" alt="Coding" width="300" src="https://64.media.tumblr.com/6b04af31f10c8441b482f2d8dfdd5108/6648e7bb84cf6279-c9/s640x960/26c79ac2f49ebb27bf0c80ce5e3a5cc3f795ca31.gifv">
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHd1YWYyd2EybXZtMjMwaWw4ZnczMDVzMXNvMnI1bXh4aDF1aG1ydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGu9zmB3gYjxzdC/giphy.webp">
+
 
 
 ## Certifications
