@@ -9,7 +9,7 @@ Dedicated AI Technologist specializing in machine learning, deep learning, and n
 
 ```python
 class AISkills:
-    deep_learning = ["PyTorch", "TensorFlow", "Vision Transformers", "GANs"]
+    deep_learning = ["PyTorch", "TensorFlow", "Vision Transformers", "GANs"] 
     computer_vision = ["OpenCV", "Object Detection", "Image Generation"]
     nlp = ["LLMs", "VLMs", "RAG", "Transformers"]
     robotics = ["ROS", "Arduino", "Autonomous Navigation"]
