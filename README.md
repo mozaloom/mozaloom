@@ -6,7 +6,7 @@
 </div>
 
 Dedicated AI Technologist specializing in machine learning, deep learning, and natural language processing.
- 
+  
 ```python
 class AISkills:
     deep_learning = ["PyTorch", "TensorFlow", "Vision Transformers", "GANs"] 
