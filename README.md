@@ -30,7 +30,7 @@ class AISkills:
 ## Certifications
 - Deep Learning Specialization
 - NLP Specialization
-- TensorFlow Developer Specialization
+- TensorFlow Developer Specialization 
 - MLOps Specialization
 - IoT Programming Specialization
 - Generative AI with LLMs
