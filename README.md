@@ -34,4 +34,4 @@ class AISkills:
 - MLOps Specialization
 - IoT Programming Specialization
 - Generative AI with LLMs
-- AI Agents
+- AI Agents and MCP
