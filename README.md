@@ -35,3 +35,4 @@ class AISkills:
 - IoT Programming Specialization
 - Generative AI with LLMs
 - AI Agents and MCP
+- AWS AI Practitioner
